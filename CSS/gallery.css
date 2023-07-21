@@ -90,8 +90,6 @@ h2 {
   background-attachment: fixed;
 }
 
-/************ Sección 2 ************/
-
 .sect3 {
   min-height: 120vh;
   background-image: url("../assets/Flapi-1.jpg");
@@ -102,7 +100,7 @@ h2 {
 }
 
 .sect5 {
-  min-height: 170vh;
+  min-height: 120vh;
   background-image: url("../assets/bruno-y-nina1.jpg");
   background-repeat: no-repeat;
   background-position: center center;
@@ -111,6 +109,7 @@ h2 {
 }
 
 .gallery-2 {
+  padding: 3rem 0;
   display: flex;
   flex-direction: column;
   align-items: center;
