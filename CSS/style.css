@@ -73,6 +73,7 @@ h5 {
 }
 
 .boton-gallery {
+  margin: 3rem 0;
   padding: 15px 25px;
   border: unset;
   border-radius: 15px;
